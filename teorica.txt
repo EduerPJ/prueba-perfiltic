@@ -1,0 +1,10 @@
+Prueba para Ingeniería
+1. Teórica
+1.1.	El método POST se diferencia del método GET porque el método POST envía la información de forma no visible. La información se envía a través del body del HTTP Request mientras que el método GET la envía en el header del HTTP Request, en la URL. Otra de las diferencias es que el método POST no tiene límite de cantidad de información a enviar y se puede usar para enviar datos binarios. 
+
+1.2	La ventaja de utilizar Ajax es que nos permite intercambiar información entre el servidor y el cliente de forma asíncrona. Obtenemos una navegación ágil, rápida y dinámica y podemos realizar cambios sobre una web sin necesidad de recargar la página entera.
+
+1.3	Ajax es de una sola vía y Websockets es de doble vía, Ajax, hace una petición para solicitar cierta información, mientras que Websockets, mantiene un canal abierto, donde la comunicación permanece continua.
+
+1.4	Los métodos estáticos son métodos que están asociados con una clase, mientras que los métodos no estáticos son métodos que están asociados con los objetos de una clase. 
+

@@ -1,7 +1,7 @@
 /**
  * Práctica JS
  *
- *  Basado en la misma página del ejercicio ​ 2.3​ genere un botón que duplique los valores de la matriz por cada clic recibido
+ * 3.1 Basado en la misma página del ejercicio ​ 2.3​ genere un botón que duplique los valores de la matriz por cada clic recibido
  */
 function duplicaValorTd() {
   let allTd = document.getElementsByTagName("td");
