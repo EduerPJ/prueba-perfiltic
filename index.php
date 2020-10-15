@@ -36,8 +36,7 @@
           <ul class="nav">
             <li class="nav-item">
               <a class="nav-link active" href="/practica2.1.php"
-                >Práctica 2.1</a
-              >
+                >Práctica 2.1</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/practica2.2.php">Práctica 2.2</a>
@@ -55,5 +54,4 @@
     <div class="container">
         <div class="row w-100 align-items-center">
           <div class="col text-center">
-            <!-- // botón duplicar -->
           
